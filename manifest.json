@@ -1,0 +1,19 @@
+{
+    "version": "1.0.0",
+    "thumbnail": "store/Thumbnail.png",
+    "id": "com_fishgrind_IconPack",
+    "name": "Fishgrind StreamController Icons",
+    "descriptions": {
+        "en_US": "Fishgrind StreamController Icons"
+    },
+    "short-descriptions": {
+        "en_US": "Fishgrind StreamController Icons"
+    },
+    "minimum-app-version": "1.0.0",
+    "app-version": "1.5.0-beta",
+    "icons": "icons/",
+
+
+    "description": "Fishgrind StreamController Icons",
+    "short-description": "Fishgrind StreamController Icons"
+}

@@ -1,0 +1,9 @@
+{
+    "generic": {
+        "copyright": "GFishgrind.com",
+        "original-url": "https://fishgrind.com",
+        "license": "Apache-2.0",
+        "license-url": "https://www.apache.org/licenses/LICENSE-2.0.txt",
+        "description": "Fishgrind Streamdeck Icons for use as plugin in Streamcontroller"
+    }
+}
