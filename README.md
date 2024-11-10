@@ -1,4 +1,5 @@
 # Fishgrind Streamdeck Icons
 
+Tabler Iconpack for Streamcontroller
 
-no details
+icons from https://github.com/tabler/tabler-icons/tree/main/icons/
